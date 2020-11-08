@@ -34,5 +34,7 @@ Please visit my other repositories for more articles on ML for Big Data
 Note: please leave your comments , ask question , or feedback to the issue page from the main menue of each repository.
 
 <a href="https://turkialjrees.com">www.turkialjrees.com</a>
+<br>
 <a href="https://www.linkedin.com/in/taljrees/">My linkedin </a> 
+<br>
 <a href="https://twitter.com/turkialjrees">My Twitter </a> 
